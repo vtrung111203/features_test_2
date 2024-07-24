@@ -16,5 +16,41 @@
         "feature": "Ngân hàng điện tử",
         "description": "Đang được tích hợp ngân hàng điện tử BIDV và sẽ còn nhiều hơn trong tương lai",
         "feature_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFkOa1bMgJDG1Zy8I_GitiXL8bQo_aZTLpggnN3PR4GSqclswlVUxlsudk1qT-kpy-uuI&usqp=CAU"
-    }
+    },
+    {
+        "feature_id": 4,
+        "feature": "Đa dạng ngôn ngữ",
+        "description": "Giao diện và báo cáo được tích hợp đa dạng ngôn ngữ Tiếng Việt, Tiếng Anh, Tiếng Trung",
+        "feature_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFkOa1bMgJDG1Zy8I_GitiXL8bQo_aZTLpggnN3PR4GSqclswlVUxlsudk1qT-kpy-uuI&usqp=CAU"
+    },
+    {
+        "feature_id": 5,
+        "feature": "Đa dạng tiền tệ",
+        "description": "Hạch toán 2 hệ thống tài khoản, nhiều loại tiền tệ. Báo cáo tài chính theo hệ thống tài khoản quốc tế",
+        "feature_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFkOa1bMgJDG1Zy8I_GitiXL8bQo_aZTLpggnN3PR4GSqclswlVUxlsudk1qT-kpy-uuI&usqp=CAU"
+    },
+    {
+        "feature_id": 6,
+        "feature": "Lưu trữ trực tuyến",
+        "description": "Quản lý dữ liệu online, làm việc mọi lúc, mọi nơi. Không cần cài đặt, không rủi ro khi gặp sự cố máy tính",
+        "feature_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFkOa1bMgJDG1Zy8I_GitiXL8bQo_aZTLpggnN3PR4GSqclswlVUxlsudk1qT-kpy-uuI&usqp=CAU"
+    },
+    {
+        "feature_id": 7,
+        "feature": "Trích xuất dữ liệu",
+        "description": "Import dữ liệu từ excel vào phần mềm và đồng thời, export dữ liệu từ phần mềm ra excel một cách dễ dàng, nhanh chóng",
+        "feature_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFkOa1bMgJDG1Zy8I_GitiXL8bQo_aZTLpggnN3PR4GSqclswlVUxlsudk1qT-kpy-uuI&usqp=CAU"
+    },
+    {
+        "feature_id": 8,
+        "feature": "Chỉnh sửa nhanh chóng",
+        "description": "Hỗ trợ chỉnh sửa mẫu phiếu, báo cáo quản trị theo yêu cầu một cách dễ dàng",
+        "feature_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFkOa1bMgJDG1Zy8I_GitiXL8bQo_aZTLpggnN3PR4GSqclswlVUxlsudk1qT-kpy-uuI&usqp=CAU"
+    },
+    {
+        "feature_id": 9,
+        "feature": "Tùy biến cao",
+        "description": "Sẵn sàng chỉnh sửa chức năng phần mềm đáp ứng theo đặc thù nghiệp vụ yêu cầu",
+        "feature_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFkOa1bMgJDG1Zy8I_GitiXL8bQo_aZTLpggnN3PR4GSqclswlVUxlsudk1qT-kpy-uuI&usqp=CAU"
+    }    
 ]
